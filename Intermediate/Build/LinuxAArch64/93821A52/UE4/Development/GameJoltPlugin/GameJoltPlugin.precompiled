@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.GameJoltPlugin.cpp.o",
+		"Module.GameJoltPlugin.gen.cpp.o"
+	]
+}
